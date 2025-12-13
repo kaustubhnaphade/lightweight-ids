@@ -1,0 +1,3 @@
+{"session_start": "2025-12-13T16:36:32.558123", "ids_version": "Lightweight IDS v1.0", "log_type": "IDS Alert Log"}
+{"timestamp": "2025-12-13T16:36:43.062239", "attack_type": "PORT_SCAN", "severity": "MEDIUM", "source_ip": "10.202.199.63", "destination_ip": "10.202.199.81", "additional_info": {"unique_ports": 20, "threshold": 20, "description": "Port scanning activity detected"}}
+{"session_end": "2025-12-13T16:37:32.652324", "total_runtime_seconds": 60.09, "total_alerts": 1, "alerts_by_type": {"PORT_SCAN": 1}}
