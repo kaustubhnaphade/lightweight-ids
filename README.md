@@ -299,10 +299,6 @@ Download sample attack PCAP files from:
 
 This project is for educational and research purposes.
 
-## Author
-
-Built with ❤️ by KD.
-
 ---
 
 **Cybersecurity Note**: This IDS is designed as a lightweight detection tool. For production environments, consider using comprehensive solutions like Snort, Suricata, or Zeek alongside this tool.
